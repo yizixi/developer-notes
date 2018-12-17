@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1",
+    "words":{
+        "argument": "参数",
+        "callee": "被调用者",
+        "caller": "调用者",
+        "Member Expression": "成员表达式",
+        "Call Expression": "调用表达式",
+        "Expression Statement": "表达式语句",
+        "Identifier": "标识符",
+        "Variable Declaration": "变量声明"
+
+    }
+}
+
